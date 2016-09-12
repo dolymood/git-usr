@@ -29,7 +29,7 @@ Exec `gusr example` and your git repository `[user]` config will be:
 ```
 [user]
         name = example
-        email = example@example.com
+        email = user@example.com
 ```
 
 ## About add or update config
