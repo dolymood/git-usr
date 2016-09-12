@@ -16,14 +16,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dolymood/git-user.git"
+    "url": "git+https://github.com/dolymood/git-usr.git"
   },
   "author": "dolymood",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dolymood/git-user/issues"
+    "url": "https://github.com/dolymood/git-usr/issues"
   },
-  "homepage": "https://github.com/dolymood/git-user#readme",
+  "homepage": "https://github.com/dolymood/git-usr#readme",
   "dependencies": {
     "commander": "^2.9.0",
     "jsonfile": "^2.3.1"

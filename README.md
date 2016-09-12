@@ -1,11 +1,11 @@
-# git-user
+# git-usr
 
 You can easily set git repository user config(user.name and user.email)
 
 ## Install
 
 ```shell
-npm i -g git-user
+npm i -g git-usr
 ```
 
 ## Usage
