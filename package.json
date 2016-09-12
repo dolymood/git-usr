@@ -1,0 +1,31 @@
+{
+  "name": "git-user",
+  "version": "0.0.1",
+  "description": "You can easily set git repository user config(user.name and user.email)",
+  "preferGlobal": "true",
+  "main": "lib/main.js",
+  "bin": {
+    "gusr": "bin/gusr"
+  },
+  "keywords": [
+    "git user",
+    "git config",
+    "git user",
+    "git email",
+    "git"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dolymood/git-user.git"
+  },
+  "author": "dolymood",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dolymood/git-user/issues"
+  },
+  "homepage": "https://github.com/dolymood/git-user#readme",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "jsonfile": "^2.3.1"
+  }
+}
