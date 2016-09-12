@@ -1,6 +1,6 @@
 {
   "name": "git-usr",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "You can easily set git repository user config(user.name and user.email)",
   "preferGlobal": "true",
   "main": "lib/main.js",
