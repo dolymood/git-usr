@@ -18,6 +18,7 @@ Commands:
 
 ```shell
 config <user.name> <user.email>    add or update (<user.name>=<user.email>) config
+remove <user.name>                 remove (<user.name>) config
 example                            user@example.com
 help [cmd]                         display help for [cmd]
 ```
@@ -32,7 +33,7 @@ Exec `gusr example` and your git repository `[user]` config will be:
         email = user@example.com
 ```
 
-## About add or update config
+## Add or update config
 
 Just:
 
@@ -44,4 +45,10 @@ Then
 
 ```shell
 gusr userName
+```
+
+## Remove config
+
+```shell
+gusr remove userName
 ```

@@ -15,6 +15,7 @@ program.command = function (name, desc, opts) {
   cmd.__name = name
   this.executables = true
   this._execs[cmd._name] = true
+  return this
 }
 program.commandHelp = function () {
   if (!this.commands.length) {
